@@ -1,4 +1,4 @@
-package com.example.diceroll
+package com.example.motivateu
 
 import org.junit.Test
 

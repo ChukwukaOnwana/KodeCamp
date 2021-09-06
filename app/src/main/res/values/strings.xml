@@ -1,6 +1,18 @@
 <resources>
-    <string name="app_name">Dice Roll</string>
-    <string name="dice_1">diceImage</string>
-    <string name="button">Roll Dice</string>
-    <string name="diceImage2">diceImage2</string>
+    <string name="app_name">Motivate U</string>
+    <string name="motivate1"> I gallant </string>
+    <string name="motivate2"> I sabi something </string>
+    <string name="motivate3"> I cute die </string>
+    <string name="motivate4"> Money choke for my aza </string>
+    <string name="motivate5"> I be baller </string>
+    <string name="motivate6"> I dope die </string>
+    <string name="motivate7"> I no go give up </string>
+    <string name="motivate8"> My road done clear </string>
+    <string name="motivate9"> I be sharp guy </string>
+    <string name="motivate10"> Na we get here </string>
+    <string name="motivate11"> Street na military </string>
+    <string name="motivate12"> Today sure for me </string>
+    <string name="motivate13"> My swag choke </string>
+    <string name="motivate14"> I dope die </string>
+    <string name="motivate15"> I no go give up </string>
 </resources>

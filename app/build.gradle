@@ -7,8 +7,8 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.diceroll"
-        minSdk 21
+        applicationId "com.example.motivateu"
+        minSdk 19
         targetSdk 31
         versionCode 1
         versionName "1.0"
