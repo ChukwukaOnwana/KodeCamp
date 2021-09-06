@@ -1,4 +1,4 @@
-package com.example.diceroll
+package com.example.bitcoinconverterapp
 
 import org.junit.Test
 

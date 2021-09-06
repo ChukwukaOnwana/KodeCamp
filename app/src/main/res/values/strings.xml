@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">Dice Roll</string>
-    <string name="dice_1">diceImage</string>
-    <string name="button">Roll Dice</string>
-    <string name="diceImage2">diceImage2</string>
+    <string name="app_name">Bitcoin Converter App</string>
+    <string name="bitcoin_converter">Bitcoin Converter</string>
+    <string name="Bitcoin_Amount">Bitcoin Amount</string>
+    <string name="enter_amount_in_bitcoin">Enter amount in bitcoin</string>
+    <string name="convert">convert</string>
+    <string name="round_off">Round off</string>
+    <string name="result_amount">The Value of your Bitcoin in Euro is %s</string>
 </resources>
